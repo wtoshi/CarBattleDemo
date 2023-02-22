@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73041fa44a61392418d9287ebda945a0, type: 3}
+  m_Name: EffectSettings
+  m_EditorClassIdentifier: 
+  hitWaterFX: {fileID: 196758, guid: e2550dae06524a94bbc4bcdf375a88b9, type: 3}
+  successConfettiFx: {fileID: 1260827090746946, guid: 02e4f5e5ac181c748b4428d5a1004b3b, type: 3}
+  perkLandedFx: {fileID: 1056904543853562, guid: 4cf45cdce36e66e4a93614abb5ae7821, type: 3}
+  perkPickUPFx: {fileID: 0}
+  HitByCarFXs:
+  - {fileID: 160696, guid: fac9ad46c0307484fba6960de846139d, type: 3}
+  - {fileID: 180954, guid: 13e43982d1a0a9d40909a898f9762727, type: 3}
+  HitByTailFXs:
+  - {fileID: 150944, guid: 3b9161edba9968c48bd058067ad18c84, type: 3}
+  - {fileID: 179906, guid: 20dfdd4230d28d34fad7c8e1731f5cd0, type: 3}
+  - {fileID: 188560, guid: 9c3b7f4ace8832b40abe6afe89fbcd91, type: 3}

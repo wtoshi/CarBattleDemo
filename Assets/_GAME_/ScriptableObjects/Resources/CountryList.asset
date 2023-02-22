@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fafe8fbe2b5b314bbe45aec622273de, type: 3}
+  m_Name: CountryList
+  m_EditorClassIdentifier: 
+  countries:
+  - DisplayName: Turkey
+    CountryCode: tr
+    CountryImg: {fileID: 21300000, guid: a6eae7e25c0f5b141951921956c5e097, type: 3}
+  - DisplayName: Argentina
+    CountryCode: ar
+    CountryImg: {fileID: 21300000, guid: 75dcfafdfd0604440b0eb67233386eb1, type: 3}
+  - DisplayName: Azerbaijan
+    CountryCode: az
+    CountryImg: {fileID: 21300000, guid: 002ce76cfab5ea045a0c2702ebd11ffb, type: 3}
+  - DisplayName: Canada
+    CountryCode: ca
+    CountryImg: {fileID: 21300000, guid: 548628c861a69d94481e1ca1cb291388, type: 3}
+  - DisplayName: China
+    CountryCode: cn
+    CountryImg: {fileID: 21300000, guid: 0d7b8575d16f0f740aa75ce2f5b08110, type: 3}
+  - DisplayName: Germany
+    CountryCode: de
+    CountryImg: {fileID: 21300000, guid: 46975c22b64f00c4599f1ce559d427c1, type: 3}
+  - DisplayName: France
+    CountryCode: fr
+    CountryImg: {fileID: 21300000, guid: 5cb12e99cbdb942429ef903baef551df, type: 3}
+  - DisplayName: England
+    CountryCode: gb
+    CountryImg: {fileID: 21300000, guid: 59b24d49281d2774da0e6f209eda0c50, type: 3}
+  - DisplayName: Japan
+    CountryCode: jp
+    CountryImg: {fileID: 21300000, guid: defba4d3bc30e9e4398403d970480312, type: 3}
+  - DisplayName: Korea
+    CountryCode: kr
+    CountryImg: {fileID: 21300000, guid: 16b20954a887b444ab5e0738d58e8bf8, type: 3}
+  - DisplayName: Holland
+    CountryCode: nl
+    CountryImg: {fileID: 21300000, guid: b693017ca31ad17468cd62bb26df739a, type: 3}
+  - DisplayName: Sweden
+    CountryCode: se
+    CountryImg: {fileID: 21300000, guid: 33667f0c08a5ffd4db3e3fb46e76b41e, type: 3}
+  - DisplayName: Ukraine
+    CountryCode: ua
+    CountryImg: {fileID: 21300000, guid: 3fc109ec9baee3e428ca1cc1978aa5c0, type: 3}
+  - DisplayName: USA
+    CountryCode: us
+    CountryImg: {fileID: 21300000, guid: dc2b6eb564624204aab56f1e1639e702, type: 3}
